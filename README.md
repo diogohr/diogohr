@@ -8,7 +8,7 @@
 
 <ul>
     <li>📖 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unopar</li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>🗂Todos os meus projetos estarão aqui</li>
+    <li>OBS: ALGUNS PRIVADOS!</li>
+    <li>Fale comigo: diogohenriquedev@gmail.com</li>
 </ul>
