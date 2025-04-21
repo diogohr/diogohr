@@ -10,5 +10,5 @@
     <li>📖 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unopar</li>
     <li>🗂Todos os meus projetos estarão aqui</li>
     <li>OBS: ALGUNS PRIVADOS!</li>
-    <li>Fale comigo: <link>diogohenriquedev@gmail.com</link></li>
+    <li>Fale comigo: <a href="diogohenriquedev@gmail.com">diogohenriquedev@gmail.com</a></li>
 </ul>
