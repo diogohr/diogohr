@@ -7,5 +7,8 @@
 <h3>Desenvolvedor Full Stack apaixanado por tecnologias</h3>
 
 <ul>
-    <li>teste</li>
+    <li>📖 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unopar</li>
+    <li></li>
+    <li></li>
+    <li></li>
 </ul>
